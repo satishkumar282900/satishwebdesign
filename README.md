@@ -20,7 +20,6 @@ I design professional WordPress websites for businesses, service providers, and 
 ### Connect With Me
 LinkedIn:
 https://www.linkedin.com/in/satishkumarwebdesign
-website - digitalonlinecourse.in
 
 Website:
 https://digitalonlinecourse.in
