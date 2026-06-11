@@ -2,27 +2,25 @@
 
 ## WordPress Website Designer
 
-I help businesses create professional websites using WordPress.
+I design professional WordPress websites for businesses, service providers, and industrial companies.
 
 ### Skills
 - WordPress
 - Elementor
-- Website Design
+- Responsive Design
 - Basic SEO
-- WooCommerce
-
-### Current Goals
-- Build websites for local businesses
-- Create website templates
-- Learn digital marketing
-- Grow freelance income
+- Website Maintenance
 
 ### Portfolio Projects
-Coming Soon...
+- Car Service Website
+- Property Settlement Website
+- Industrial Website (THERBO)
+- Business Website Templates
 
-### Contact
+### Connect With Me
 LinkedIn:
 https://www.linkedin.com/in/satishkumarwebdesign
+website - digitalonlinecourse.in
 
 Website:
 https://digitalonlinecourse.in
